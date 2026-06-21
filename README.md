@@ -11,7 +11,7 @@ API REST desenvolvida em Node.js para uma plataforma de apostas baseada no jogo 
 * nodemon
 
 ## Integrantes
-* Luiz Oliveira
+* Luiz Otavio Faquim de Oliveira
 
 ## Instalação
 
