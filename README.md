@@ -17,7 +17,7 @@ API REST desenvolvida em Node.js para uma plataforma de apostas baseada no jogo 
 
 Clone o repositório:
 \`\`\`bash
-git clone https://github.com/Kunksss/api-campo-minado
+git clone https://github.com/Kunksss/api-campo-minado.git
 \`\`\`
 
 Acesse a pasta do projeto:
